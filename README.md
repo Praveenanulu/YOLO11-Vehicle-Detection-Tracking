@@ -92,6 +92,6 @@ These are sample tracking-based estimates, not independently verified vehicle co
 
 ## Author
 
-Muhammed Shamshad V
+Saipraveena Nulu
 
 Interests: Robotics, Artificial Intelligence, Computer Vision, and Autonomous Systems.
