@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+input_videos/
+output_videos/
+*.pt
+.DS_Store
+traffic_25s.mp4
+.vscode/
